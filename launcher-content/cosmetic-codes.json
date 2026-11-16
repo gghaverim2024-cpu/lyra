@@ -23,6 +23,53 @@
         "candy_cane_bracelet",
         "gift_backpack"
       ]
+    },
+    {
+      "hash": "30fcfcdca4910ecd07de9d37e692065bca386ca9354ca6a2c55557e3b8a40e57",
+      "items": [
+        "sufganiya_hat",
+        "dreidel_hat",
+        "menorah_crown",
+        "santa_hat",
+        "reindeer_antlers",
+        "elf_hat",
+        "snowman_top_hat",
+        "israel_cap",
+        "crown",
+        "top_hat",
+        "cowboy_hat",
+        "headphones",
+        "halo",
+        "devil_horns",
+        "cat_ears",
+        "propeller_cap",
+        "party_hat",
+        "chef_hat",
+        "viking_helmet",
+        "wizard_hat",
+        "flower_crown",
+        "graduation_cap",
+        "lyra_star",
+        "sufganiya_cape",
+        "menorah_cape",
+        "christmas_cape",
+        "snowflake_cape",
+        "israel_cape",
+        "galaxy_cape",
+        "flame_cape",
+        "lyra_cape",
+        "angel_wings",
+        "bat_wings",
+        "gift_backpack",
+        "jetpack",
+        "israel_flag_back",
+        "candy_cane_bracelet",
+        "gelt_bracelet",
+        "blue_white_bracelet",
+        "gold_bracelet",
+        "rainbow_bracelet",
+        "lyra_bracelet"
+      ]
     }
   ]
 }
